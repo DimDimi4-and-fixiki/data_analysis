@@ -4,6 +4,6 @@
 
 - **Covid-19 Google Trends Activity**  
 
-  My Notebook with graphs is **<a href="https://github.com/DimDimi4-and-fixiki/data_analysis/blob/main/Covid_Trends/Confidence_intervals.ipynb">here<a/> **
+  My Notebook with graphs and analytics is <a href="https://github.com/DimDimi4-and-fixiki/data_analysis/blob/main/Covid_Trends/Confidence_intervals.ipynb">here<a/>
 
   
